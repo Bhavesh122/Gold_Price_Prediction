@@ -1,5 +1,7 @@
 # Gold Price Prediction
 
+THE OTHER DATASET WILL AUTOMATICALLY WILL BE GENERATED FROM YAHOO AUTOMATICALLY 
+
 This project uses machine learning models to predict the price of gold based on various economic indicators such as Silver, Crude Oil, S&P500, Dollar Index, etc. The models utilized for prediction include Linear Regression, Decision Tree Regressor, Random Forest Regressor, Gradient Boosting Regressor, and Support Vector Regressor.
 
 ## Features
